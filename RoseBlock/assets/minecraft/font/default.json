@@ -1,0 +1,494 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/logo.png",
+            "ascent": 0,
+            "height": 38,
+            "chars": [
+                "\u2155"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/admin.png",
+            "ascent": 10,
+            "height": 10,
+            "chars": [
+                "\u00B5"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/discord.png",
+            "ascent": 15,
+            "height": 15,
+            "chars": [
+                "\u00B6"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/brewing_stand.png",
+            "ascent": 9,
+            "height": 9,
+            "chars": [
+                "\u00C7"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/clock.png",
+            "ascent": 9,
+            "height": 9,
+            "chars": [
+                "\u00DE"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/command_icon.png",
+            "ascent": 15,
+            "height": 15,
+            "chars": [
+                "\u00DF"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/deaths.png",
+            "ascent": 9,
+            "height": 9,
+            "chars": [
+                "\u00F0"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/ender_pearl.png",
+            "ascent": 9,
+            "height": 9,
+            "chars": [
+                "\u0126"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/fishing_rod.png",
+            "ascent": 9,
+            "height": 9,
+            "chars": [
+                "\u0127"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/island.png",
+            "ascent": 9,
+            "height": 9,
+            "chars": [
+                "\u0136"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/kills.png",
+            "ascent": 9,
+            "height": 9,
+            "chars": [
+                "\u013D"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/money.png",
+            "ascent": 9,
+            "height": 9,
+            "chars": [
+                "\u0149"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/rank.png",
+            "ascent": 9,
+            "height": 9,
+            "chars": [
+                "\u014B"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/coal.png",
+            "ascent": 9,
+            "height": 9,
+            "chars": [
+                "\u0152"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/diamond.png",
+            "ascent": 9,
+            "height": 9,
+            "chars": [
+                "\u0157"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/emerald.png",
+            "ascent": 9,
+            "height": 9,
+            "chars": [
+                "\u0166"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/iron.png",
+            "ascent": 9,
+            "height": 9,
+            "chars": [
+                "\u0168"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/lapis.png",
+            "ascent": 9,
+            "height": 9,
+            "chars": [
+                "\u0173"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/netherite.png",
+            "ascent": 9,
+            "height": 9,
+            "chars": [
+                "\u0191"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/redstone.png",
+            "ascent": 9,
+            "height": 9,
+            "chars": [
+                "\u0195"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/gold.png",
+            "ascent": 9,
+            "height": 9,
+            "chars": [
+                "\u019C"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/daxe.png",
+            "ascent": 9,
+            "height": 9,
+            "chars": [
+                "\u048F"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/pick.png",
+            "ascent": 9,
+            "height": 9,
+            "chars": [
+                "\u046C"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/mot.png",
+            "ascent": 9,
+            "height": 9,
+            "chars": [
+                "\u046F"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/lopata.png",
+            "ascent": 9,
+            "height": 9,
+            "chars": [
+                "\u047E"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/lmb.png",
+            "ascent": 9,
+            "height": 9,
+            "chars": [
+                "\u052B"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/rmb.png",
+            "ascent": 9,
+            "height": 9,
+            "chars": [
+                "\u052C"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/angry.png",
+            "ascent": 12,
+            "height": 12,
+            "chars": [
+                "\u019F"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/broken_heart.png",
+            "ascent": 12,
+            "height": 12,
+            "chars": [
+                "\u01A2"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/crying.png",
+            "ascent": 12,
+            "height": 12,
+            "chars": [
+                "\u01A6"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/eyes.png",
+            "ascent": 12,
+            "height": 12,
+            "chars": [
+                "\u01A7"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/fire.png",
+            "ascent": 12,
+            "height": 12,
+            "chars": [
+                "\u01AE"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/happy.png",
+            "ascent": 12,
+            "height": 12,
+            "chars": [
+                "\u01B1"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/heart.png",
+            "ascent": 12,
+            "height": 12,
+            "chars": [
+                "\u01B4"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/joy.png",
+            "ascent": 12,
+            "height": 12,
+            "chars": [
+                "\u01BA"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/ok_hand.png",
+            "ascent": 12,
+            "height": 12,
+            "chars": [
+                "\u01C2"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/scream.png",
+            "ascent": 12,
+            "height": 12,
+            "chars": [
+                "\u01E4"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/serious.png",
+            "ascent": 12,
+            "height": 12,
+            "chars": [
+                "\u01EC"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/smile.png",
+            "ascent": 12,
+            "height": 12,
+            "chars": [
+                "\u01F6"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/sunglasses.png",
+            "ascent": 12,
+            "height": 12,
+            "chars": [
+                "\u01F7"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/surprised.png",
+            "ascent": 12,
+            "height": 12,
+            "chars": [
+                "\u0238"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/thinking.png",
+            "ascent": 12,
+            "height": 12,
+            "chars": [
+                "\u023A"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/thumbsdown.png",
+            "ascent": 12,
+            "height": 12,
+            "chars": [
+                "\u0241"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/thumbsup.png",
+            "ascent": 12,
+            "height": 12,
+            "chars": [
+                "\u0520"
+            ]
+        },
+		{
+            "type": "space",
+            "advances": {
+                " ": 4,
+                "\uE096": -12,
+                "\uE097": -48,
+                "\uE098": -1013,
+                "\uE099": -1536
+            }
+        },
+        {
+            "type": "bitmap",
+            "file": "welcome/welcome-screen-blue.png",
+            "ascent": 25,
+            "height": 256,
+            "chars": ["\uE100"]
+        },
+        {
+            "type": "bitmap",
+            "file": "welcome/background-blue.png",
+            "ascent": 256,
+            "height": 2500,
+            "chars": ["\uE101"]
+        },
+        {
+            "type": "bitmap",
+            "file": "welcome/welcome-screen-green.png",
+            "ascent": 25,
+            "height": 256,
+            "chars": ["\uE102"]
+        },
+        {
+            "type": "bitmap",
+            "file": "welcome/welcome-screen-orange.png",
+            "ascent": 25,
+            "height": 256,
+            "chars": ["\uE103"]
+        },
+        {
+            "type": "bitmap",
+            "file": "welcome/welcome-screen-pink.png",
+            "ascent": 25,
+            "height": 256,
+            "chars": ["\uE104"]
+        },
+        {
+            "type": "bitmap",
+            "file": "welcome/welcome-screen-red.png",
+            "ascent": 25,
+            "height": 256,
+            "chars": ["\uE105"]
+        },
+        {
+            "type": "bitmap",
+            "file": "welcome/background-green.png",
+            "ascent": 256,
+            "height": 2500,
+            "chars": ["\uE106"]
+        },
+        {
+            "type": "bitmap",
+            "file": "welcome/background-orange.png",
+            "ascent": 256,
+            "height": 2500,
+            "chars": ["\uE107"]
+        },
+        {
+            "type": "bitmap",
+            "file": "welcome/background-pink.png",
+            "ascent": 256,
+            "height": 2500,
+            "chars": ["\uE108"]
+        },
+        {
+            "type": "bitmap",
+            "file": "welcome/background-red.png",
+            "ascent": 256,
+            "height": 2500,
+            "chars": ["\uE109"]
+        },
+        {
+            "type": "bitmap",
+            "file": "welcome/welcome-screen-black.png",
+            "ascent": 25,
+            "height": 256,
+            "chars": ["\uE110"]
+        },
+        {
+            "type": "bitmap",
+            "file": "welcome/background-black.png",
+            "ascent": 256,
+            "height": 2500,
+            "chars": ["\uE111"]
+        }
+    ]
+}

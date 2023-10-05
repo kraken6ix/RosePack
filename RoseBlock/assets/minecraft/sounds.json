@@ -1,0 +1,146 @@
+{
+"get_the_pump": {
+  "sounds": [
+    {
+      "name": "records/get_the_pump",
+      "stream": true
+    }
+  ]
+},
+"stick": {
+  "sounds": [
+    {
+      "name": "records/stick",
+      "stream": true
+    }
+  ]
+},
+"disaster": {
+  "sounds": [
+    {
+      "name": "records/disaster",
+      "stream": true
+    }
+  ]
+},
+"tour": {
+  "sounds": [
+    {
+      "name": "records/tour",
+      "stream": true
+    }
+  ]
+},
+"eternal": {
+  "sounds": [
+    {
+      "name": "records/eternal",
+      "stream": true
+    }
+  ]
+},
+"nemesis": {
+  "sounds": [
+    {
+      "name": "records/nemesis",
+      "stream": true
+    }
+  ]
+},
+"money": {
+  "sounds": [
+    {
+      "name": "records/money",
+      "stream": true
+    }
+  ]
+},
+"move": {
+  "sounds": [
+    {
+      "name": "records/move",
+      "stream": true
+    }
+  ]
+},
+"gang": {
+  "sounds": [
+    {
+      "name": "records/gang",
+      "stream": true
+    }
+  ]
+},
+"savage": {
+  "sounds": [
+    {
+      "name": "records/savage",
+      "stream": true
+    }
+  ]
+},
+"lies": {
+  "sounds": [
+    {
+      "name": "records/lies",
+      "stream": true
+    }
+  ]
+},
+"kaif": {
+  "sounds": [
+    {
+      "name": "records/kaif",
+      "stream": true
+    }
+  ]
+},
+"moy": {
+  "sounds": [
+    {
+      "name": "records/moy",
+      "stream": true
+    }
+  ]
+},
+"shift": {
+  "sounds": [
+    {
+      "name": "records/shift",
+      "stream": true
+    }
+  ]
+},
+"care": {
+  "sounds": [
+    {
+      "name": "records/care",
+      "stream": true
+    }
+  ]
+},
+"make": {
+  "sounds": [
+    {
+      "name": "records/make",
+      "stream": true
+    }
+  ]
+},
+"roses": {
+  "sounds": [
+    {
+      "name": "records/roses",
+      "stream": true
+    }
+  ]
+},
+"lolipop": {
+  "sounds": [
+    {
+      "name": "records/lolipop",
+      "stream": true
+    }
+  ]
+}
+}

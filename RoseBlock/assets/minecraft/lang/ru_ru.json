@@ -1,0 +1,13 @@
+{
+	"menu.game":"§f⅕",
+	"deathScreen.spectate":"Продолжить играть!",
+	"menu.returnToGame":"Продолжить играть!",
+	"gui.advancements":"/menu",
+	"menu.reportBugs": "§dMCRose.Ru",
+	"menu.disconnect":"Прошу, не покидай нас :(",
+    "multiplayer.downloadingTerrain": "§f⅕",
+	"connect.joining": "§f⅕",
+	"advancements.empty":"§f⅕",
+	"advancements.sad_label":"",
+	"container.inventory":" "
+	}
