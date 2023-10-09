@@ -1,1 +1,1 @@
-# RosePack
+# RosePack - РЕСУРС ПАК ДЛЯ СЕРВЕРА ROSECLOUD
